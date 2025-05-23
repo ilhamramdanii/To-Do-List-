@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(to right, #f8f9fa, #e0eafc);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card {
+    border: none;
+}
+
+.form-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+input[type="text"],
+input[type="datetime-local"] {
+    border-radius: 8px;
+}
+
+button {
+    border-radius: 8px;
+}
