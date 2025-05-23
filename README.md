@@ -2,7 +2,7 @@
 
 ##  Deskripsi
 Aplikasi To-Do List berbasis PHP sederhana yang memungkinkan pengguna menambahkan, mengedit, menandai selesai, dan menghapus tugas. Menggunakan sesi (tanpa database) serta Bootstrap 5 untuk tampilan antarmuka yang modern dan responsif.
-
+gi
 ##  Fitur 
 
 - Tambah tugas dengan deadline
@@ -16,6 +16,7 @@ Aplikasi To-Do List berbasis PHP sederhana yang memungkinkan pengguna menambahka
 
 ##  Struktur Folder
 
+'''
 todo-php/
 ├── assets
   ├── CSS 
@@ -23,7 +24,7 @@ todo-php/
 ├── functions.php 
 ├── index.php 
 ├── README.md # Dokumentasi ini
-
+'''
 ##  Cara Menjalankan
 
 1. Pastikan Anda memiliki PHP di lokal (XAMPP, MAMP, atau `php -S`)
