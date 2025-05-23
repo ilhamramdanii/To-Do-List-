@@ -16,7 +16,7 @@ gi
 
 ##  Struktur Folder
 
-'''
+```
 todo-php/
 ├── assets
   ├── CSS 
@@ -24,7 +24,7 @@ todo-php/
 ├── functions.php 
 ├── index.php 
 ├── README.md # Dokumentasi ini
-'''
+```
 ##  Cara Menjalankan
 
 1. Pastikan Anda memiliki PHP di lokal (XAMPP, MAMP, atau `php -S`)
