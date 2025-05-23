@@ -28,7 +28,7 @@ todo-php/
 
 1. Pastikan Anda memiliki PHP di lokal (XAMPP, MAMP, atau `php -S`)
 2. Letakkan folder ini di dalam `htdocs` (jika menggunakan XAMPP)
-3. Akses melalui browser:  http://localhost/todolist
+3. Akses melalui browser:  http://localhost/todo
 4. Gunakan tombol Tambah / Edit / Selesai / Hapus sesuai instruksi di atas
 
 ##  Instruksi yang Dilakukan (Poin-poin Panduan Pengguna)
